@@ -1,0 +1,1 @@
+Consegna esercizio arnaldo.codice_fiscale
